@@ -1,4 +1,5 @@
 # Playlist Manager
+![image](https://github.com/user-attachments/assets/b87cc24b-cca3-4486-98ff-a8b2940f87b9)
 
 
 # Overview
